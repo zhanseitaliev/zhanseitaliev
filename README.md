@@ -1,4 +1,10 @@
-### Hi there 👋
+<h1 align="left">Zhan Seitaliev (@zhanseitaliev) 👋</h1>
+
+- 💻 Core Stack: **PHP, Go, JS/React**. Mainly focused on Backend.
+- 🔥 Develop useful tools for <a href="https://shopter.online" target="blank">e-commerce</a>
+- 👨‍💻 <a href="https://linkedin.com/in/zhanseitaliev" target="blank">Linkedin</a> | <a href="mailto:zhanseitaliev@gmail.com" target="blank">Email: zhanseitaliev@gmail.com</a>
+
+<hr />
 
 [![codewars](https://www.codewars.com/users/zhanseitaliev/badges/large)](https://www.codewars.com/users/zhanseitaliev)  
 
